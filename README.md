@@ -19,7 +19,16 @@ valid_pairlist.txt format is file_id (filename), multimodal label, text label, i
 
 ## Extract Features
 
-For Extract multimodal features  MM_Feature_Extraction.ipynb
+- Download pretrained models to pre_trained :
+   1. [places](https://drive.google.com/file/d/1ARP8GS5LMGYc8T8lFTuYkBl9I9kJoIiL/view)
+   2. [emotion](https://drive.google.com/file/d/1sWx3ze8XfZEGf-kPcmiYpY9EOzugdzgu/view)
+ 
+- Extract image features: python feature_extract/extract_img_feats.py --vtype imagenet --mvsa single --ht False
+- Extract text features: python feature_extract/extract_txt_feats.py --btype robertabase --mvsa single --ht True
+
+- For Extract multimodal features  MM_Feature_Extraction.ipynb
+
+(It produces a file in .json format in the ./features folder.)
 
 ## Train and Evaulate Models
 
