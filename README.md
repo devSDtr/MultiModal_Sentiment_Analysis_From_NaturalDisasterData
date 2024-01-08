@@ -21,6 +21,8 @@ valid_pairlist.txt format is file_id (filename), multimodal label, text label, i
 
 For Extract multimodal features  MM_Feature_Extraction.ipynb
 
+(It produces a file in .json format in the ./features folder.)
+
 ## Train and Evaulate Models
 
 
