@@ -17,4 +17,8 @@ valid_pairlist.txt format is file_id (filename), multimodal label, text label, i
 | 1       | Positive   |
 | 2       | Negative   |
 
+## Extract Features
+
+For Extract multimodal features  MM_Feature_Extraction.ipynb
+( 
 
