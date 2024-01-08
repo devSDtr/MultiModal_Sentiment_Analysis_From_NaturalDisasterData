@@ -28,7 +28,7 @@ For Extract multimodal features  MM_Feature_Extraction.ipynb
 
 2. For training using **CLIP** model for Image and **RoBERTa** model for Text: MM_CLIP+Roberta: MM_CLIP+Roberta.ipynb
 
-3. To train using ** ResNet**  Model trained on ImageNet dataset for Image and ** RoBERTa**  for Text: MM_ResNet+Roberta.ipynb
+3. To train using **ResNet**  Model trained on ImageNet dataset for Image and **RoBERTa**  for Text: MM_ResNet+Roberta.ipynb
 
 ## Test MultiModal
 
