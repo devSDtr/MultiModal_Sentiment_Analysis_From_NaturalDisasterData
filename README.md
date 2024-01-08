@@ -33,9 +33,9 @@ valid_pairlist.txt format is file_id (filename), multimodal label, text label, i
 ## Train and Evaulate Models
 
 
-1. For **CLIP** model for Image and Text: MM_CLIP+CLIP.ipynb
+1. For **CLIP** model for Image and Text: MM_Clip+Clip.ipynb
 
-2. For training using **CLIP** model for Image and **RoBERTa** model for Text: MM_CLIP+Roberta: MM_CLIP+Roberta.ipynb
+2. For training using **CLIP** model for Image and **RoBERTa** model for Text: MM_CLIP+Roberta: MM_Clip+Roberta.ipynb
 
 3. To train using **ResNet**  Model trained on ImageNet dataset for Image and **RoBERTa**  for Text: MM_ResNet+Roberta.ipynb
 
