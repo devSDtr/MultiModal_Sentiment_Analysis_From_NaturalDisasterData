@@ -21,6 +21,7 @@ valid_pairlist.txt format is file_id (filename), multimodal label, text label, i
 
 - Download pretrained models to pre_trained :
    1. [places](https://drive.google.com/file/d/1ARP8GS5LMGYc8T8lFTuYkBl9I9kJoIiL/view)
+   2. [emotion](https://drive.google.com/file/d/1sWx3ze8XfZEGf-kPcmiYpY9EOzugdzgu/view)
 
 - For Extract multimodal features  MM_Feature_Extraction.ipynb
 
