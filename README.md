@@ -20,5 +20,14 @@ valid_pairlist.txt format is file_id (filename), multimodal label, text label, i
 ## Extract Features
 
 For Extract multimodal features  MM_Feature_Extraction.ipynb
-( 
 
+## Train and Evaulate Models
+
+
+For CLIP model for Image and Text: MM_CLIP+CLIP.ipynb
+For training using CLIP model for Image and RoBERTa model for Text: MM_CLIP+Roberta: MM_CLIP+Roberta.ipynb
+To train using ResNet Model trained on ImageNet dataset for Image and RoBERTa for Text: MM_ResNet+Roberta.ipynb
+
+## Test MultiModal
+
+For testing multimodal model from image and text data pair MM_Predict.ipynb
