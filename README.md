@@ -19,7 +19,10 @@ valid_pairlist.txt format is file_id (filename), multimodal label, text label, i
 
 ## Extract Features
 
-For Extract multimodal features  MM_Feature_Extraction.ipynb
+- Download pretrained models to pre_trained :
+   1. [places]([https://github.com/kaymal](https://drive.google.com/file/d/1ARP8GS5LMGYc8T8lFTuYkBl9I9kJoIiL/view))
+
+- For Extract multimodal features  MM_Feature_Extraction.ipynb
 
 (It produces a file in .json format in the ./features folder.)
 
