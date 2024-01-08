@@ -11,7 +11,7 @@ Available at : [https://drive.google.com/drive/folders/1TSmHiFRFWJiGQKy3WYArOvuO
 
 valid_pairlist.txt format is file_id (filename), multimodal label, text label, image label
 
-| Label   | Sentiment  |
+| Data Label   | Sentiment  |
 |:-------:| -----:|
 | 0       | Neutral    |
 | 1       | Positive   |
