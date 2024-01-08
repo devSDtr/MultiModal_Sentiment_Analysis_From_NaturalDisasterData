@@ -8,3 +8,13 @@ This study represents a study examining the multimodal sentiment analysis of con
 The data includes 1,000 images and 1,000 texts on the theme of natural disasters from Twitter.
 
 Available at : [https://drive.google.com/drive/folders/1TSmHiFRFWJiGQKy3WYArOvuOFCvao-q5?usp=sharing](https://drive.google.com/drive/folders/1TSmHiFRFWJiGQKy3WYArOvuOFCvao-q5?usp=sharing)
+
+valid_pairlist.txt format is file_id (filename), multimodal label, text label, image label
+
+| Label   | Sentiment  |
+|:-------:| -----:|
+| 0       | Neutral    |
+| 1       | Positive   |
+| 2       | Negative   |
+
+
